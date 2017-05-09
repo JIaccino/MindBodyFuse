@@ -1,2 +1,0 @@
-# MindBodyFuse
-Mind Body Fuse
